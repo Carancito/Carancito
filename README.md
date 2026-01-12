@@ -1,1 +1,1 @@
-<center>This text is centered.</center>
+                       <center>This text is centered.</center>
