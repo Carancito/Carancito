@@ -1,1 +1,1 @@
-> he / him <
+<center>This text is centered.</center>
