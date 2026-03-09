@@ -1,5 +1,6 @@
 
-![banner](https://github.com/user-attachments/assets/156f321e-2e3b-455e-affb-ab72380997b8)
+<img width="1280" height="256" alt="banner-Photoroom" src="https://github.com/user-attachments/assets/209c2414-3f3a-48aa-b9b1-cdc49d738769" />
+
 
 </p>
 
