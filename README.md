@@ -1,7 +1,7 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.sh/github.com.svg?label=souls.&extraCount=199999&color=ccb7e1&labelColor=ffffff)](https://hits.sh/github.com/)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.sh/github.com.svg?style=plastic&label=rock%20n%20roll.&color=000000&labelColor=000000)](https://hits.sh/github.com/)
 </p>
 
-<img width="1280" height="256" alt="HBz9lu8WoAAhNJv" src="https://github.com/user-attachments/assets/2a21d14d-f7c4-44e3-963a-69414c15fcc7" />
+ ![4](https://github.com/user-attachments/assets/e214d02a-cc48-49bc-87dd-b6d13e66ac16)
 
 
 
