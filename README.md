@@ -1,10 +1,3 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Hits](https://hits.sh/github.com.svg?style=plastic&label=rock%20n%20roll.&color=000000&labelColor=000000)](https://hits.sh/github.com/)
-</p>
-
- ![4](https://github.com/user-attachments/assets/e214d02a-cc48-49bc-87dd-b6d13e66ac16)
-
-
-
 </p>
 
 
