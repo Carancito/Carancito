@@ -1,6 +1,3 @@
-</p>
-
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31urekwxadpaonf6ajdqtxn4u5pi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=a81f1f&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
+<p align="center">
+  𝖂𝔥𝔞𝔱𝔢𝔳𝔢𝔯, 𝔫𝔬𝔟𝔬𝔡𝔶 𝔴𝔦𝔩𝔩 𝔰𝔢𝔢 𝔪𝔶 𝔭𝔯𝔬𝔣𝔦𝔩𝔢 𝔞𝔫𝔶𝔴𝔞𝔶.
 </p>
