@@ -1,5 +1,7 @@
 <p align="center">
 
-　　　　　　　　　　　　　　[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31urekwxadpaonf6ajdqtxn4u5pi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+<img width="1403" height="1121" alt="74249942-42e8-41f6-9a15-fa815d49e6a1-Photoroom" src="https://github.com/user-attachments/assets/25ee6194-59a1-43fa-9165-f3106b74be06" />
+
 
 </p>
+
