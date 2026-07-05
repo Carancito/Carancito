@@ -10,7 +10,8 @@
 
 
 
-<p align="center"> $\Huge{\textsf{⸻ 𝖢𝗅𝖾𝖺𝗇 𝗎𝗉 𝗍𝗁𝖾 𝗆𝖺𝗌𝗌 𝗐𝖾’𝗏𝖾 𝗆𝖺𝖽𝖾! ⸻}}$
+<img width="3853" height="572" alt="generated_text (1)" src="https://github.com/user-attachments/assets/ef910fac-8bb0-44a9-9eba-5238cd2357d4" />
+
 
 <img width="1403" height="1121" alt="74249942-42e8-41f6-9a15-fa815d49e6a1-Photoroom(2)" src="https://github.com/user-attachments/assets/6ecddc7b-2c13-4d70-b050-9a68e956ec24" />
 
