@@ -1,14 +1,14 @@
 <p align="center">
 
-<img width="1403" height="1121" alt="74249942-42e8-41f6-9a15-fa815d49e6a1-Photoroom" src="https://github.com/user-attachments/assets/ede969f2-de8c-46b5-a129-a5b12a766036" />
+
+<img width="1402" height="1122" alt="a4106bff-14cb-4291-aeef-612b164f6533-Photoroom" src="https://github.com/user-attachments/assets/e6df03fa-d6be-4cc4-ae0e-a376bbe347f3" />
 
 
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/7dd011c4-c31f-4c1f-867e-95434b154987" />
-
-
-
-<img width="1403" height="1121" alt="74249942-42e8-41f6-9a15-fa815d49e6a1-Photoroom(2)" src="https://github.com/user-attachments/assets/6ecddc7b-2c13-4d70-b050-9a68e956ec24" />
-
+<p align="center">ㅤㅤ⟣ ㅤ﹝ཀ⸻ཀ﹞ㅤ ⟢ㅤㅤ</p>
+<p align="center"> ㅤㅤ⟣ ⸻ ㅤ𝖼𝖺𝗋𝖺𝗇 血 𝗆𝖺𝗑 ㅤ⸻ ⟢ㅤㅤ</p>
+<p align="center"> ㅤㅤ⟣ ⸻ ㅤ𝗉𝗅𝖾𝖺𝗌𝖾 𝖿𝖾𝖾𝗅 𝖿𝗋𝖾𝖾 𝗍𝗈 𝗂𝗇𝗍𝖾𝗋𝖺𝖼𝗍 𝗐𝗂𝗍𝗁 𝗆𝖾! ㅤ⸻ ⟢ㅤㅤ</p>
+  <p align="center"> ㅤㅤ⟣ ﹝ ⟡ ﹞ ⟢  ㅤㅤ</p>
+  <p align="center"> ㅤ⟣ ⸻ㅤ𝖨𝗆 𝗌𝗍𝗂𝗅𝗅 𝗐𝗈𝗋𝗄𝗂𝗇𝗀 𝗈𝗇 𝗍𝗁𝗂𝗌 𝗆𝖺𝗒𝖻𝖾 𝗅𝖺𝗍𝖾𝗋 𝖨𝗅𝗅 𝗁𝖺𝗏𝖾 𝖺 𝖼𝖺𝗋𝗋𝖽 𝗈𝗋 𝖺 𝗌𝗍𝗋𝖺𝗐𝗉𝖺𝗀𝖾. ㅤ⸻ ⟢ㅤㅤ</p>
 
 
 </p>
