@@ -1,5 +1,5 @@
-<p align="center"> ㅤㅤㅤㅤ</p>
-<p align="center"> ㅤㅤㅤㅤDo You Want To See What I'm Listening To? Fine. ㅤㅤㅤㅤ</p>
+<p align="center"></p>
+<p align="center">Do You Want To See What I'm Listening To? Fine.</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
