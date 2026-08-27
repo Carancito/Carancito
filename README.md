@@ -1,6 +1,6 @@
 <p align="center">
   
-  $$\color{#ece1d1}Jack Samurai\ \color{#c9b5a9}♡\ \color{#c8b691}Johnny \color{88827c}Bravo !$$
+  $$\color{#ece1d1}Samurai Jack\ \color{#c9b5a9}♡\ \color{#c8b691}Johnny \color{88827c}Bravo !$$
 
 </p>
 
