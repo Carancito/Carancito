@@ -1,6 +1,6 @@
 <p align="center">
   
-  $$\color{#ebd100}．　　　Maybe\ \color{#bea900} I'll\ \color{#a59300}Finish\ \color{#8e7f00}It\ \color{#6b5f00}Later．\$$
+  $$\color{#ebd100}．　　　Maybe\ \color{#bea900} i'll\ \color{#a59300}finish\ \color{#8e7f00}it\ \color{#6b5f00}later．\$$
 
 </p>
 
@@ -31,6 +31,6 @@
 
 <p align="center">
   
-  $$\color{#ebd100}．　　　Maybe\ \color{#bea900} I'll\ \color{#a59300}Finish\ \color{#8e7f00}It\ \color{#6b5f00}Later．\$$
+  $$\color{#ebd100}．　　　maybe\ \color{#bea900} i'll\ \color{#a59300}finish\ \color{#8e7f00}it\ \color{#6b5f00}later．\$$
 
 </p>
