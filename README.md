@@ -1,6 +1,6 @@
 <p align="center">
   
-  $$\color{#ebd100}．　　　Maybe\ \color{#bea900} i'll\ \color{#a59300}finish\ \color{#8e7f00}it\ \color{#6b5f00}later．\$$
+  $$\color{#ebd100}．　　　maybe\ \color{#bea900} i'll\ \color{#a59300}finish\ \color{#8e7f00}it\ \color{#6b5f00}later．\$$
 
 </p>
 
