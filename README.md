@@ -1,6 +1,6 @@
 <p align="center">
   
-  $$\color{#ece1d1}\ \color{#c9b5a9}\ \color{#c8b691} \color{88827c}$$
+  $$\color{#ebd100}Maybe\ \color{#bea900} I'll\ \color{#a59300}Finish\ \color{#8e7f00}It\ \color{#6b5f00}Later.\$$
 
 </p>
 
@@ -24,5 +24,13 @@
 <p align="center">
   
 <img width="2048" height="18" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/9b1f3522-8135-4fe6-81f3-531bfca1625d" />
+
+</p>
+
+
+
+<p align="center">
+  
+  $$\color{#ebd100}Maybe\ \color{#bea900} I'll\ \color{#a59300}Finish\ \color{#8e7f00}It\ \color{#6b5f00}Later.\$$
 
 </p>
