@@ -1,38 +1,22 @@
-<p align="center">
-  
-  $$\color{#ebd100}maybe\ \color{#bea900} i'll\ \color{#a59300}finish\ \color{#8e7f00}it\ \color{#6b5f00}later.\$$
 
+<p align="center">
+
+<img width="2048" height="18" alt="tumblr_91888ffeb62da797e281275a251b3603_f31c319d_2048__fliter--golden-x-rays__channel--all__mode--color" src="https://github.com/user-attachments/assets/5b81a66e-b1db-48ea-8baf-5ee394292b8d" />
+  
 </p>
 
 
 
 <p align="center">
   
-<img width="2048" height="18" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/9b1f3522-8135-4fe6-81f3-531bfca1625d" />
-
-</p>
-
-
-
-<p align="center">
-  
-<img width="1200" height="675" alt="Hawkss" src="https://github.com/user-attachments/assets/bb96f3c1-3582-4325-a26c-0d2663e3c10f" />
+<img width="1200" height="675" alt="bb" src="https://github.com/user-attachments/assets/71fed94e-849a-443d-9c0c-76556151a0d2" />
 
 </p>
 
 
 <p align="center">
   
-<img width="2048" height="18" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/9b1f3522-8135-4fe6-81f3-531bfca1625d" />
+<img width="2048" height="18" alt="tumblr_91888ffeb62da797e281275a251b3603_f31c319d_2048__fliter--golden-x-rays__channel--all__mode--color" src="https://github.com/user-attachments/assets/5b81a66e-b1db-48ea-8baf-5ee394292b8d" />
 
 </p>
-
-
-
-<p align="center">
-  
-  $$\color{#ebd100}maybe\ \color{#bea900} i'll\ \color{#a59300}finish\ \color{#8e7f00}it\ \color{#6b5f00}later.\$$
-
-</p>
-
 
