@@ -1,5 +1,7 @@
 <p align="center">
   
-<img width="320" height="320" alt="descarga" src="https://github.com/user-attachments/assets/1b6ad7cd-8b05-4b9a-8850-941b3682bc4a" />
+<img width="800" height="450" alt="ezgif-85b7e5d771b55df7" src="https://github.com/user-attachments/assets/a016a8e9-7368-47da-88fa-de668f395e7b" />
+<img width="800" height="450" alt="ezgif-802cce66c1e39a5f" src="https://github.com/user-attachments/assets/1fd47a23-4b40-4811-ae08-7ae71c54b44c" />
+
 
 </p>
