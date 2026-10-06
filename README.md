@@ -1,7 +1,12 @@
-<p align="center">
+<div align="center">
+
+  𝒜bra-𝒦adabra!ㅤhere'sㅤyourㅤsweets!ㅤ
+prettyㅤhandyㅤ,ㅤhuh?ㅤthisㅤlittleㅤmagicㅤtrickㅤreallyㅤeasesㅤtheㅤmindㅤwhenㅤthings'reㅤatㅤtheirㅤworst.ㅤ
+aㅤbitㅤofㅤavwayㅤtoㅤcopeㅤ,ㅤbutㅤitㅤdoesn'tㅤfeelㅤbadㅤ,ㅤright?ㅤ
+
   
-  ### As my father said, "If someone copies you, it means that person is a moron who doesn't know how to do things on their own, and you are original, son."
-- My Dear Father
+<img width="640" height="1024" alt="image" src="https://github.com/user-attachments/assets/baf05b46-2f5a-4d56-ab6f-38d96c3aae2f" /><p align="center">
+
 </p>
 
 
