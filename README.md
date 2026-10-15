@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img width="890" height="992" alt="ezgif-3f5533173a4a22f9" src="https://github.com/user-attachments/assets/c4d07e7c-3464-4367-8e83-a7240fc828c6" />
+<img width="890" height="992" alt="ezgif-33463d57715c476d" src="https://github.com/user-attachments/assets/f63ceba5-ce9b-4108-8825-bf4ca398c590" />
 
 
 </p>
